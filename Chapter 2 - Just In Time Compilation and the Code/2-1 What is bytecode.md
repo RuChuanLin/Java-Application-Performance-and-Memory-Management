@@ -1,10 +1,10 @@
-## What happened inside the JVM?
+# What happened inside the JVM?
 
 ![](../img/2020-12-12-23-15-21.png)
 
 
 - Java file is compiled by compiler to .class file (bytecode file), and we can package these files into .jar or .war file.
-- These files are run by JVM (Java Virtual Machine)
+- These bytecode files are run by JVM (Java Virtual Machine)
 - JVM is `interpreting` the bytecode
 
 -> And because of the JVM, we can write Java code once and run anywhere exists JVM
@@ -17,3 +17,10 @@
 ![](../img/2020-12-12-23-21-38.png)
 
 PHP is not compiled, but interpreted in the runtime
+
+
+## Other JVM languages
+
+- Kotlin
+- Scala
+- 
